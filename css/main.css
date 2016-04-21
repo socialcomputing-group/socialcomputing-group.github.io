@@ -21,9 +21,9 @@ a:link {
 }
 
 /* visited link */
-a:visited {
+/*a:visited {
     color: green;
-}
+}*/
 
 a:hover {
     text-decoration: underline;
